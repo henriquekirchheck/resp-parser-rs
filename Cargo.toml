@@ -1,0 +1,7 @@
+[package]
+name = "resp-parser-rs"
+version = "0.1.0"
+authors = ["Henrique Kirch Heck"]
+edition = "2021"
+
+[dependencies]
